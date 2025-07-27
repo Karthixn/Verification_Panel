@@ -1,4 +1,4 @@
-# Origin_Roleplay Verification Bot
+#  Verification Bot
 
 This Discord bot handles user verification for the Origin_Roleplay server using an embedded verification panel and button.
 
