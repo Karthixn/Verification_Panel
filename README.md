@@ -49,7 +49,3 @@ node index.js
 
 - Ensure the bot has permissions to manage roles, send DMs, and send messages in the verification and log channels.
 - Modify the verification embed and messages to suit your branding.
-
----
-
-Made for Origin_Roleplay by request.
